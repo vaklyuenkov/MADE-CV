@@ -1,3 +1,3 @@
-# made
+# MADE Computer Vision Course
 
-MADE materials
+* 1 Seminar - numpy and linear regression
